@@ -22,7 +22,7 @@
 
 ## 📫 Connect with Me  
 📧 **Email:** [1504aniket@gmail.com](mailto:1504aniket@gmail.com)  
-💻 **Portfolio:** *Coming soon...*  
+💻 **Portfolio:https://fascinating-malabi-152273.netlify.app  
 
 ---
 
