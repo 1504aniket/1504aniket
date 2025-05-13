@@ -5,15 +5,14 @@
 # 🚀 IT Student | web Developer | Tech Enthusiast  
 
 🔹 Passionate about Web Development, Machine Learning, and Data Science 
-
-🔹 Currently learning Node.js, Express.js, and Backend Development  
+🔹 I enjoy building full-stack web applications and solving real-world problems through code. 
 🔹 Solving coding problems on LeetCode ([1504aniket](https://leetcode.com/1504aniket/))  
  
 
 # 🔧 Technologies & Tools  
 - **Languages: C, C++, Python, JavaScript ,typescript 
-- **Frontend: HTML, CSS, JavaScript, React  
-- **Backend: Node.js, Express.js, Flask (learning) 
+- **Frontend: HTML, CSS, Tailwind , Bootstrap, React ,Redux 
+- **Backend: Node.js, Express.js , Postman
 - **Machine Learning: numpy,pandas,matplotlib,seaborn,Scikit-learn, OpenCV   
 - **Version Control:Git, GitHub  
 
@@ -23,7 +22,7 @@
 
 ## 📫 Connect with Me  
 📧 **Email:** [1504aniket@gmail.com](mailto:1504aniket@gmail.com)  
-💻 **Portfolio:https://fascinating-malabi-152273.netlify.app  
+💻 **Portfolio**:https://fascinating-malabi-152273.netlify.app  
 
 ---
 
