@@ -5,7 +5,9 @@
 # 🚀 IT Student | web Developer | Tech Enthusiast  
 
 🔹 Passionate about Web Development, Machine Learning, and Data Science 
+
 🔹 I enjoy building full-stack web applications and solving real-world problems through code. 
+
 🔹 Solving coding problems on LeetCode ([1504aniket](https://leetcode.com/1504aniket/))  
  
 
