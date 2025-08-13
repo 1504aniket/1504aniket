@@ -12,9 +12,10 @@
  
 
 # 🔧 Technologies & Tools  
-- **Languages: C, C++, Python, JavaScript ,typescript 
+- **Languages:  C++, Python, JavaScript ,typescript, Java
 - **Frontend: HTML, CSS, Tailwind , Bootstrap, React ,Redux 
-- **Backend: Node.js, Express.js , Postman
+- **Backend: Node.js, Express.js , Flask, RESTapi, MVC, Postman
+- **Databases: mysql, MongoDB, PostgreSql
 - **Machine Learning: numpy,pandas,matplotlib,seaborn,Scikit-learn, OpenCV   
 - **Version Control:Git, GitHub  
 
